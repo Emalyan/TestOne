@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\bin\Debug\netcoreapp2.1\AuthenticationWebApiTest.deps.json
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\bin\Debug\netcoreapp2.1\AuthenticationWebApiTest.runtimeconfig.json
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\bin\Debug\netcoreapp2.1\AuthenticationWebApiTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\bin\Debug\netcoreapp2.1\AuthenticationWebApiTest.dll
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\bin\Debug\netcoreapp2.1\AuthenticationWebApiTest.pdb
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.AssemblyInfo.cs
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.dll
+C:\Users\User\source\repos\AuthenticationWebApiTest\AuthenticationWebApiTest\obj\Debug\netcoreapp2.1\AuthenticationWebApiTest.pdb
